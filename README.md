@@ -7,7 +7,7 @@ React component to display math formulas.
 ### Installation
 
 ```
-$ npm i react-mathjax --save
+$ npm i @linkiwi/react-mathjax --save
 ```
 
 ### Usage

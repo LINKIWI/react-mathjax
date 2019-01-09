@@ -1,5 +1,5 @@
 {
-  "name": "react-mathjax",
+  "name": "@linkiwi/react-mathjax",
   "version": "1.0.1",
   "description": "React component to render math using MathJax",
   "main": "./lib/index.js",
@@ -14,19 +14,19 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/SamyPesse/react-mathjax.git"
+    "url": "git+https://github.com/LINKIWI/react-mathjax.git"
   },
   "keywords": [
     "react",
     "mathjax",
     "math"
   ],
-  "author": "Samy Pessé <samypesse@gmail.com>",
+  "author": "Kevin Lin <developer@kevinlin.info>",
   "license": "Apache-2.0",
   "bugs": {
-    "url": "https://github.com/SamyPesse/react-mathjax/issues"
+    "url": "https://github.com/LINKIWI/react-mathjax/issues"
   },
-  "homepage": "https://github.com/SamyPesse/react-mathjax#readme",
+  "homepage": "https://github.com/LINKIWI/react-mathjax#readme",
   "peerDependencies": {
     "react": "^16.3.0"
   },
