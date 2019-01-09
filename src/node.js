@@ -130,7 +130,7 @@ class MathJaxNode extends React.PureComponent<*, *> {
                     registerNode();
 
                     if (!MathJax) {
-                        return null;
+                        return this.props.formula;
                     }
 
                     return (

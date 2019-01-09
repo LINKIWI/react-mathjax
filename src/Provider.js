@@ -78,6 +78,11 @@ class MathJaxProvider extends React.Component<*, *> {
 
     onLoad = (err: ?Error) => {
         const { options } = this.props;
+
+        if (err) {
+            return;
+        }
+
         MathJax.Hub.Config(options);
 
         this.setState({

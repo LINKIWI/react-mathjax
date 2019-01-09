@@ -1,6 +1,6 @@
 /* @flow */
 import Provider from './Provider';
-import Node from './Node';
+import Node from './node';
 
 const MathJax = {
     Provider,
